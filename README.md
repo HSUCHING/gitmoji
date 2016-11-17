@@ -14,6 +14,8 @@
 	</a>
 </p>
 
+
+
 ## About
 
 [Gitmoji](https://gitmoji.carloscuesta.me) is an initiative to standarize and explain **the use of emojis on GitHub commit messages**.
